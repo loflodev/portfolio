@@ -11,7 +11,7 @@ import LanguageSwitcher from "./components/LanguageSwitcher";
 import "./i18n";
 
 function App() {
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
   const { t } = useTranslation();
 
   useEffect(() => {
