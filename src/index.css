@@ -1,3 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}
+
+.glass-effect {
+  @apply backdrop-blur-md bg-gradient-to-br from-white/50 to-white/30 shadow-lg dark:shadow-none dark:bg-black/10 dark:from-transparent dark:to-transparent;
+}
+
+.section-padding {
+  @apply py-16 md:py-24;
+}
+
+.gradient-text {
+  @apply bg-gradient-to-r from-primary to-secondary text-transparent bg-clip-text;
+}

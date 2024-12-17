@@ -1,0 +1,81 @@
+{
+  "common": {
+    "name": "Louis Jr Florival",
+    "role": "Full-Stack Web Developer"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Full-Stack Web Developer",
+    "subtitle": "Louis Jr Florival",
+    "description": "I'm a full stack developer and I work remotely from South America",
+    "buttons": {
+      "contact": "Contact Me",
+      "download": "Download CV"
+    }
+  },
+  "about": {
+    "title": "About me",
+    "description1": "As a Full Stack Developer, I blend creativity with technical expertise to build seamless web applications. With a passion for clean code and user-centric design, I transform ideas into reality.",
+    "description2": "Based in South America, I work remotely with clients worldwide, bringing a global perspective to every project. My approach combines modern technologies with proven methodologies to deliver exceptional results.",
+    "location": "Location",
+    "locationValue": "South America",
+    "experience": "Experience",
+    "experienceValue": "5+ Years",
+    "availability": "Availability",
+    "availabilityValue": "Full-time",
+    "projects": "Projects",
+    "projectsValue": "50+ Completed",
+    "imageAlt": "About me image"
+  },
+  "skills": {
+    "title": "My Skills",
+    "items": {
+      "css": "CSS",
+      "tailwind": "Tailwind",
+      "javascript": "JavaScript",
+      "react": "React",
+      "nodejs": "Node.js",
+      "redux": "Redux"
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "viewProject": "View Project"
+  },
+  "experience": {
+    "title": "Experience"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "form": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "John Doe",
+        "error": "Name is required"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "john@example.com",
+        "error": {
+          "required": "Email is required",
+          "invalid": "Email is invalid"
+        }
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Your message...",
+        "error": "Message is required"
+      },
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "copyright": " Louis Jr Florival. All rights reserved."
+  }
+}

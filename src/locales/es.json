@@ -1,0 +1,112 @@
+{
+  "common": {
+    "name": "Louis Jr Florival",
+    "role": "Desarrollador Web Full-Stack"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Desarrollador Web Full-Stack",
+    "subtitle": "Louis Jr Florival",
+    "description": "Soy un desarrollador full stack y trabajo de forma remota desde Sudamérica",
+    "buttons": {
+      "contact": "Contáctame",
+      "download": "Descargar CV"
+    }
+  },
+  "about": {
+    "title": "Sobre mí",
+    "description1": "Como desarrollador Full Stack, combino creatividad con experiencia técnica para construir aplicaciones web fluidas. Con pasión por el código limpio y el diseño centrado en el usuario, transformo ideas en realidad.",
+    "description2": "Ubicado en Sudamérica, trabajo de forma remota con clientes de todo el mundo, aportando una perspectiva global a cada proyecto. Mi enfoque combina tecnologías modernas con metodologías probadas para entregar resultados excepcionales.",
+    "location": "Ubicación",
+    "locationValue": "Sudamérica",
+    "experience": "Experiencia",
+    "experienceValue": "5+ Años",
+    "availability": "Disponibilidad",
+    "availabilityValue": "Tiempo completo",
+    "projects": "Proyectos",
+    "projectsValue": "50+ Completados",
+    "imageAlt": "Imagen sobre mí"
+  },
+  "skills": {
+    "title": "Mis Habilidades",
+    "items": {
+      "css": "CSS",
+      "tailwind": "Tailwind",
+      "javascript": "JavaScript",
+      "react": "React",
+      "nodejs": "Node.js",
+      "redux": "Redux"
+    }
+  },
+  "projects": {
+    "title": "Mis Proyectos",
+    "viewProject": "Ver Proyecto",
+    "items": {
+      "ecommerce": {
+        "title": "Plataforma E-commerce",
+        "description": "Una plataforma de compras en línea con gestión de inventario en tiempo real."
+      },
+      "taskmanager": {
+        "title": "Gestor de Tareas",
+        "description": "Herramienta colaborativa de gestión de tareas con actualizaciones en tiempo real y funciones de equipo."
+      },
+      "dashboard": {
+        "title": "Panel de Redes Sociales",
+        "description": "Panel de análisis para gestión de redes sociales y planificación de contenido."
+      }
+    }
+  },
+  "experience": {
+    "title": "Experiencia",
+    "items": {
+      "senior": {
+        "role": "Desarrollador Full Stack Senior",
+        "company": "Tech Solutions Inc.",
+        "description": "Liderando el desarrollo de aplicaciones web empresariales usando React y Node.js. Gestionando un equipo de 5 desarrolladores."
+      },
+      "fullstack": {
+        "role": "Desarrollador Full Stack",
+        "company": "Digital Innovations",
+        "description": "Desarrollo y mantenimiento de múltiples proyectos de clientes. Implementación de pipelines CI/CD y estrategias de pruebas."
+      },
+      "frontend": {
+        "role": "Desarrollador Frontend",
+        "company": "WebCraft Agency",
+        "description": "Creación de aplicaciones web responsivas e implementación de diseños UI/UX modernos."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contáctame",
+    "form": {
+      "name": {
+        "label": "Nombre Completo",
+        "placeholder": "Juan Pérez",
+        "error": "El nombre es requerido"
+      },
+      "email": {
+        "label": "Correo Electrónico",
+        "placeholder": "juan@ejemplo.com",
+        "error": {
+          "required": "El correo electrónico es requerido",
+          "invalid": "El correo electrónico es inválido"
+        }
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Tu mensaje...",
+        "error": "El mensaje es requerido"
+      },
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "copyright": " Louis Jr Florival. Todos los derechos reservados."
+  }
+}
