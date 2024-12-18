@@ -13,7 +13,7 @@
   "hero": {
     "title": "Full-Stack Web Developer",
     "subtitle": "Louis Jr Florival",
-    "description": "I'm a full stack developer and I work remotely from South America",
+    "description": "I'm a full stack developer and I work remotely from Canada",
     "buttons": {
       "contact": "Contact Me",
       "download": "Download CV"
@@ -22,7 +22,7 @@
   "about": {
     "title": "About me",
     "description1": "As a Full Stack Developer, I blend creativity with technical expertise to build seamless web applications. With a passion for clean code and user-centric design, I transform ideas into reality.",
-    "description2": "Based in South America, I work remotely with clients worldwide, bringing a global perspective to every project. My approach combines modern technologies with proven methodologies to deliver exceptional results.",
+    "description2": "Based in Canada, I work remotely with clients worldwide, bringing a global perspective to every project. My approach combines modern technologies with proven methodologies to deliver exceptional results.",
     "location": "Location",
     "locationValue": "South America",
     "experience": "Experience",
@@ -30,18 +30,20 @@
     "availability": "Availability",
     "availabilityValue": "Full-time",
     "projects": "Projects",
-    "projectsValue": "50+ Completed",
+    "projectsValue": "20+ Completed",
     "imageAlt": "About me image"
   },
   "skills": {
     "title": "My Skills",
     "items": {
-      "css": "CSS",
-      "tailwind": "Tailwind",
-      "javascript": "JavaScript",
+      "vue": "VueJS",
+      "tailwindCSS": "TailwindCSS",
+      "typescript": "Typescript",
       "react": "React",
       "nodejs": "Node.js",
-      "redux": "Redux"
+      "mongodb": "MongoDB",
+      "express": "ExpressJS",
+      "wordpress": "Wordpress"
     }
   },
   "projects": {

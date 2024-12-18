@@ -1,18 +1,20 @@
-import { motion } from 'framer-motion'
-import { useTranslation } from 'react-i18next'
+import { motion } from "framer-motion";
+import { useTranslation } from "react-i18next";
 
 const skills = [
-  { name: 'css', level: 90 },
-  { name: 'tailwind', level: 85 },
-  { name: 'javascript', level: 90 },
-  { name: 'react', level: 85 },
-  { name: 'nodejs', level: 80 },
-  { name: 'redux', level: 75 },
-]
+  { name: "mongodb", level: 80 },
+  { name: "tailwindCSS", level: 90 },
+  { name: "express", level: 75 },
+  { name: "typescript", level: 90 },
+  { name: "react", level: 85 },
+  { name: "vue", level: 80 },
+  { name: "nodejs", level: 75 },
+  { name: "wordpress", level: 95 },
+];
 
 const SkillBar = ({ name, level }: { name: string; level: number }) => {
-  const { t } = useTranslation()
-  
+  const { t } = useTranslation();
+
   return (
     <div className="mb-6">
       <div className="flex justify-between mb-2">
@@ -23,16 +25,16 @@ const SkillBar = ({ name, level }: { name: string; level: number }) => {
         <motion.div
           initial={{ width: 0 }}
           whileInView={{ width: `${level}%` }}
-          transition={{ duration: 1, ease: 'easeOut' }}
+          transition={{ duration: 1, ease: "easeOut" }}
           className="h-full bg-gradient-to-r from-primary to-secondary"
         />
       </div>
     </div>
-  )
-}
+  );
+};
 
 const Skills = () => {
-  const { t } = useTranslation()
+  const { t } = useTranslation();
 
   return (
     <section id="skills" className="section-padding">
@@ -43,7 +45,7 @@ const Skills = () => {
         className="container mx-auto"
       >
         <h2 className="text-3xl md:text-4xl font-bold mb-12 gradient-text">
-          {t('skills.title')}
+          {t("skills.title")}
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {skills.map((skill) => (
@@ -52,7 +54,7 @@ const Skills = () => {
         </div>
       </motion.div>
     </section>
-  )
-}
+  );
+};
 
-export default Skills
+export default Skills;

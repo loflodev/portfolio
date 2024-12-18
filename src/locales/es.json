@@ -13,7 +13,7 @@
   "hero": {
     "title": "Desarrollador Web Full-Stack",
     "subtitle": "Louis Jr Florival",
-    "description": "Soy un desarrollador full stack y trabajo de forma remota desde Sudamérica",
+    "description": "Soy un desarrollador full stack y trabajo de forma remota desde Canada",
     "buttons": {
       "contact": "Contáctame",
       "download": "Descargar CV"
@@ -22,26 +22,28 @@
   "about": {
     "title": "Sobre mí",
     "description1": "Como desarrollador Full Stack, combino creatividad con experiencia técnica para construir aplicaciones web fluidas. Con pasión por el código limpio y el diseño centrado en el usuario, transformo ideas en realidad.",
-    "description2": "Ubicado en Sudamérica, trabajo de forma remota con clientes de todo el mundo, aportando una perspectiva global a cada proyecto. Mi enfoque combina tecnologías modernas con metodologías probadas para entregar resultados excepcionales.",
+    "description2": "Ubicado en Canada, trabajo de forma remota con clientes de todo el mundo, aportando una perspectiva global a cada proyecto. Mi enfoque combina tecnologías modernas con metodologías probadas para entregar resultados excepcionales.",
     "location": "Ubicación",
-    "locationValue": "Sudamérica",
+    "locationValue": "Canada",
     "experience": "Experiencia",
     "experienceValue": "5+ Años",
     "availability": "Disponibilidad",
     "availabilityValue": "Tiempo completo",
     "projects": "Proyectos",
-    "projectsValue": "50+ Completados",
+    "projectsValue": "20+ Completados",
     "imageAlt": "Imagen sobre mí"
   },
   "skills": {
     "title": "Mis Habilidades",
     "items": {
-      "css": "CSS",
-      "tailwind": "Tailwind",
-      "javascript": "JavaScript",
+      "vue": "VueJS",
+      "tailwindCSS": "TailwindCSS",
+      "typescript": "Typescript",
       "react": "React",
       "nodejs": "Node.js",
-      "redux": "Redux"
+      "mongodb": "MongoDB",
+      "express": "ExpressJS",
+      "wordpress": "Wordpress"
     }
   },
   "projects": {

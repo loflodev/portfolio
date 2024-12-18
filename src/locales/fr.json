@@ -13,7 +13,7 @@
   "hero": {
     "title": "Développeur Web Full-Stack",
     "subtitle": "Louis Jr Florival",
-    "description": "Je suis un développeur full stack travaillant à distance depuis l'Amérique du Sud",
+    "description": "Je suis un développeur full stack travaillant à distance depuis Canada",
     "buttons": {
       "contact": "Me contacter",
       "download": "Télécharger CV"
@@ -22,26 +22,28 @@
   "about": {
     "title": "À propos de moi",
     "description1": "En tant que développeur Full Stack, je combine créativité et expertise technique pour construire des applications web fluides. Passionné par le code propre et la conception centrée sur l'utilisateur, je transforme les idées en réalité.",
-    "description2": "Basé en Amérique du Sud, je travaille à distance avec des clients du monde entier, apportant une perspective globale à chaque projet. Mon approche combine technologies modernes et méthodologies éprouvées pour livrer des résultats exceptionnels.",
+    "description2": "Basé en Canada, je travaille à distance avec des clients du monde entier, apportant une perspective globale à chaque projet. Mon approche combine technologies modernes et méthodologies éprouvées pour livrer des résultats exceptionnels.",
     "location": "Localisation",
-    "locationValue": "Amérique du Sud",
+    "locationValue": "Canada",
     "experience": "Expérience",
     "experienceValue": "5+ Ans",
     "availability": "Disponibilité",
     "availabilityValue": "Temps plein",
     "projects": "Projets",
-    "projectsValue": "50+ Réalisés",
+    "projectsValue": "20+ Réalisés",
     "imageAlt": "Image à propos de moi"
   },
   "skills": {
     "title": "Mes Compétences",
     "items": {
-      "css": "CSS",
-      "tailwind": "Tailwind",
-      "javascript": "JavaScript",
+      "vue": "VueJS",
+      "tailwindCSS": "TailwindCSS",
+      "typescript": "Typescript",
       "react": "React",
       "nodejs": "Node.js",
-      "redux": "Redux"
+      "mongodb": "MongoDB",
+      "express": "ExpressJS",
+      "wordpress": "Wordpress"
     }
   },
   "projects": {
