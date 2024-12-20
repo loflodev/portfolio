@@ -50,17 +50,17 @@
     "title": "Mis Proyectos",
     "viewProject": "Ver Proyecto",
     "items": {
+      "personalblog": {
+        "title": "LofloDev - Blog",
+        "description": "Un blog que utiliza inteligencia artificial para generar artículos de forma automática."
+      },
+      "sociallink": {
+        "title": "Taplink - Social Analytics",
+        "description": "Solución para administrar enlaces de redes sociales con informes en tiempo real sobre comportamiento de usuarios utilizando Google Analytics."
+      },
       "ecommerce": {
-        "title": "Plataforma E-commerce",
-        "description": "Una plataforma de compras en línea con gestión de inventario en tiempo real."
-      },
-      "taskmanager": {
-        "title": "Gestor de Tareas",
-        "description": "Herramienta colaborativa de gestión de tareas con actualizaciones en tiempo real y funciones de equipo."
-      },
-      "dashboard": {
-        "title": "Panel de Redes Sociales",
-        "description": "Panel de análisis para gestión de redes sociales y planificación de contenido."
+        "title": "Safrozen Foods",
+        "description": "Tienda en línea ecológica dedicada al procesamiento y distribución de alimentos saludables."
       }
     }
   },
